@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="mac-window">
-            <img src="../src/lib/images/rabug.jpeg" alt="rabug" style="border-radius: 1000px; margin: 10px auto" width="100px">
+            <img src="../src/static/rabug.jpeg" alt="rabug" style="border-radius: 1000px; margin: 10px auto" width="100px">
             <h2>{fullName}</h2>
             <p class="role">{role}</p>
             <p style="margin: auto 30px;">{aboutText}</p>

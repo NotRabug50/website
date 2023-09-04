@@ -3,7 +3,6 @@
     import Header from "./Header.svelte";
     import './styles.css'
     import {onMount} from "svelte";
-  
     // Define the navigation links for the header
     let navLinks = [
       { url: "/", text: "home" },
@@ -35,7 +34,7 @@
 
     export let data;
   </script>
-  
+ 
   <div>
     <Header title="rabug" {navLinks} />
   

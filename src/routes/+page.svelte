@@ -2,7 +2,7 @@
   <main>
     <section class="hero">
       <h1 style="font-size: 60px;" class="rainbow-text">hello!</h1>
-      <h2>I am Buğra (a.k.a rabug), welcome to my portfolio. I'm 14 years old <br>
+      <h2>I am Buğra (a.k.a rabug), welcome to my portfolio. I'm 15 years old <br>
         🧑‍💻 I'm interested in anything that has "tech" in it. <br>
         🐧 I've tried Ubuntu, Kali and Zorin but i saw that i was a windows guy <br>
         🥚 egg yeah <br>

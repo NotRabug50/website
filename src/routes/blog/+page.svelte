@@ -1,4 +1,6 @@
 <script>
+    //TODO: integrate api lol
+
     // Define an array of blog posts (you can replace this with your actual blog data)
     let blogPosts = [
       {
